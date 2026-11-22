@@ -1,0 +1,1 @@
+# Transistor-NPN-BC337-Regi-o-de-Corte-como-Chave-Eletr-nica-com-ESP32
